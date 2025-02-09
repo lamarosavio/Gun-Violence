@@ -25,12 +25,10 @@ Folders
 
 Content description of project folders:
 •	01 Project Management: contains the project brief that outlines the details of the project.
-•	02 Data: contains two subfolders:
-◦	Original Data: contains the original datasets of the project (one .csv file and one .geojson file).
-◦	Prepared Data: contains the final cleaned and wrangled dataset used for analysis.
+•	02 Data: Contains the final cleaned and wrangled dataset used for analysis.
 •	03 Scripts: contains Jupyter notebooks of each step of my analysis written in Python code.
 •	04 Analysis-Visualizations: contains all the visualizations I created to develop and explain insights.
-Data
+
 
 Original data set used for this analysis and columns they contain:
 
